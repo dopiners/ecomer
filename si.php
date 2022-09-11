@@ -42,10 +42,7 @@ $user_type =$_POST['user_type'];
         <input type="password" name="cpass" id="cpass" placeholder="confirm your password" required>
         <br>
         <input type="submit" id="submit" name="submit">
-        <select name="user_type" id="user_type" class="user_type">
-            <option value="user">user</option>
-            <option value="admin">admin</option>
-        </select>
+      
         <p>alredy have account <a href="lo.php">login now</a></p>
         </div>
         </div>
